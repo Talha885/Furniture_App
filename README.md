@@ -1,17 +1,16 @@
-# shop
+# furniture Ecommerce App 
 
-A new Flutter project.
+Home Page
 
-## Getting Started
+ ![first](https://github.com/Talha885/Furniture_App/assets/109594908/456cbfe0-504d-418b-9898-1e97d4a222a4)
 
-This project is a starting point for a Flutter application.
+Details Screen
 
-A few resources to get you started if this is your first Flutter project:
+![second](https://github.com/Talha885/Furniture_App/assets/109594908/bd82b2ff-4df3-4f4f-9f3a-441de6813f5c)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Favorites Screen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Furniture_App" 
+![third](https://github.com/Talha885/Furniture_App/assets/109594908/76b3767e-e7dd-421e-ab72-b79e6944968a)
+
+
+
